@@ -1,3 +1,4 @@
+/*1. Print the names of All months and the total number of days in each month using the enum java.time.Month. Consider that the year is not Leap Year.*/
 package lab2;
 
 import java.time.Month;
