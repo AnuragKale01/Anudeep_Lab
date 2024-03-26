@@ -1,3 +1,4 @@
+/*2. Write a program that takes user input and converts it to an integer using Integer.parseInt(). Handle the NumberFormatException and NullPointerException that might occur during the conversion*/
 package DemoException;
 
 import java.util.Scanner;
