@@ -1,3 +1,4 @@
+/* 2. Write a program to check if today is independence day (15th August) or not using java MonthDay class. Using the method isBefore () find out if today is before or after the independence day. If today is before independence day then print “Independence day is yet to come this year." otherwise print “Independence day was already celebrated this year.” [Perform internet search if required.]*/
 package lab2;
 
 import java.time.LocalDate;
