@@ -1,3 +1,4 @@
+/*1. Create a Java program that acts as a simple calculator. ● The program should prompt the user to enter two numbers and an operator (+, -, *, /). ● Perform the corresponding calculation based on the operator. ● Handle potential exceptions, such as division by zero or invalid operator input. ● Display the result or an appropriate error message.*/ 
 package DemoException;
 
 import java.util.Scanner;
